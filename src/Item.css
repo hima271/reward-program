@@ -1,0 +1,9 @@
+.item-container form {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+}
+.item-container div {
+    text-align: left;
+}
